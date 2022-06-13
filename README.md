@@ -30,7 +30,7 @@ https://magnetic-maraca-07f.notion.site/Vesting-Contract-and-Treasury-Contact-d2
 
 `npx truffle test`
 
-### deploy idle
+### deploy
 
 Update funder, startTime, ve3Token address in migration files.
 
